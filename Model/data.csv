@@ -1,0 +1,121 @@
+Area_Name,No_of_street_light,No_of_police_station,Type_Area,No_of_men,No_of_women,Location_of_Police_station,Women_safety_ratio,Safe_or_unsafe
+Juhu_Beachside,100,2,Urban,5000,5500,Downtown,1.1,Safe
+Saket_Residential,75,1,Suburban,3000,3200,Suburb Center,1.07,Safe
+Whitefield_Farms,120,3,Rural,2000,1800,Village Square,0.9,Unsafe
+Park_Street_Central,80,2,Urban,4500,4800,City Center,1.07,Safe
+Indiranagar_Suburban,150,4,Suburban,6000,6500,Suburb Main Street,1.08,Safe
+Banjara_Hills_Rural,50,1,Rural,1200,1000,Village Corner,0.83,Unsafe
+Bodakdev_Urban,90,2,Urban,4000,4200,City Square,1.05,Safe
+Kothrud_Suburb,110,3,Suburban,5500,5800,Suburb Park,1.05,Safe
+Vaishali_Rural,70,1,Rural,1800,1600,Village Center,0.89,Unsafe
+Gomti_Nagar_Urban,130,4,Urban,7000,7200,City Main Street,1.03,Safe
+Sector_17_Suburb,60,2,Suburban,3500,3700,Suburb Street,1.06,Safe
+Arera_Colony_Rural,100,3,Rural,2500,2300,Village Park,0.92,Unsafe
+Cantt_Area_Urban,85,2,Urban,4800,5000,City Corner,1.04,Safe
+Kakkanad_Suburb,140,4,Suburban,6500,7000,Suburb Square,1.08,Safe
+Colva_Rural,40,1,Rural,1000,900,Village Main Street,0.9,Unsafe
+Dwaraka_Nagar_Urban,95,3,Urban,4200,4500,City Park,1.07,Safe
+Kamla_Nagar_Suburb,120,4,Suburban,6200,6800,Suburb Corner,1.1,Safe
+Sigra_Rural,55,2,Rural,1500,1400,Village Street,0.93,Unsafe
+Dharampeth_Urban,80,3,Urban,3800,4000,City Main Square,1.05,Safe
+Vijayanagar_Suburb,110,4,Suburban,6800,7200,Suburb Main Square,1.06,Safe
+Marine_Drive_Urban,95,2,Urban,4500,4900,Downtown,1.1,Safe
+Lajpat_Nagar_Suburban,70,1,Suburban,3000,3300,Suburb Center,1.08,Safe
+Vile_Parle_Rural,110,3,Rural,1800,1600,Village Square,0.92,Unsafe
+Hazratganj_Urban,85,2,Urban,4200,4600,City Center,1.05,Safe
+Koramangala_Suburban,130,4,Suburban,6500,7000,Suburb Main Street,1.08,Safe
+Khandala_Rural,60,1,Rural,1200,1000,Village Corner,0.83,Unsafe
+Maninagar_Urban,80,2,Urban,4000,4200,City Square,1.04,Safe
+Kalyani_Nagar_Suburb,100,3,Suburban,5500,5800,Suburb Park,1.05,Safe
+Malviya_Nagar_Rural,65,1,Rural,1700,1500,Village Center,0.88,Unsafe
+Gachibowli_Urban,120,4,Urban,7000,7300,City Main Street,1.02,Safe
+Sector_22_Suburb,55,2,Suburban,3500,3800,Suburb Street,1.06,Safe
+Manesar_Rural,95,3,Rural,2400,2200,Village Park,0.91,Unsafe
+Sarojini_Nagar_Urban,80,2,Urban,4600,4800,City Corner,1.03,Safe
+Kakkanad_Suburb,140,4,Suburban,6700,7100,Suburb Square,1.07,Safe
+Colva_Rural,40,1,Rural,1000,900,Village Main Street,0.9,Unsafe
+Seethammadhara_Urban,90,3,Urban,4200,4500,City Park,1.07,Safe
+Gandhi_Nagar_Suburb,110,4,Suburban,6300,6800,Suburb Corner,1.1,Safe
+Jankipuram_Rural,60,2,Rural,1400,1300,Village Street,0.92,Unsafe
+Dharampeth_Urban,75,3,Urban,3800,4000,City Main Square,1.05,Safe
+Banashankari_Suburb,105,4,Suburban,6900,7200,Suburb Main Square,1.06,Safe
+Malad_West_Urban,95,2,Urban,4800,5000,City Center,1.04,Safe
+Koregaon_Park_Suburb,120,3,Suburban,5500,5800,Suburb Park,1.05,Safe
+Anna_Nagar_Rural,70,1,Rural,1800,1600,Village Center,0.89,Unsafe
+Marathahalli_Urban,130,4,Urban,7000,7200,City Main Street,1.03,Safe
+Salt_Lake_Suburb,60,2,Suburban,3500,3700,Suburb Street,1.06,Safe
+Gachibowli_Rural,100,3,Rural,2500,2300,Village Park,0.92,Unsafe
+Prahlad_Nagar_Urban,85,2,Urban,4800,5000,City Corner,1.04,Safe
+Deccan_Gymkhana_Suburb,140,4,Suburban,6500,7000,Suburb Square,1.08,Safe
+Calangute_Rural,40,1,Rural,1000,900,Village Main Street,0.9,Unsafe
+Hazratganj_Urban,95,3,Urban,4200,4500,City Park,1.07,Safe
+Kirti_Nagar_Suburb,120,4,Suburban,6200,6800,Suburb Corner,1.1,Safe
+Cantt_Area_Rural,55,2,Rural,1500,1400,Village Street,0.93,Unsafe
+Nerul_Urban,80,3,Urban,3800,4000,City Main Square,1.05,Safe
+Madhapur_Suburb,110,4,Suburban,6800,7200,Suburb Main Square,1.06,Safe
+Versova_Rural,75,1,Rural,3000,2800,Village Lane,0.93,Unsafe
+Koramangala_Urban,100,2,Urban,4500,4800,City Square,1.07,Safe
+Kankaria_Suburb,130,3,Suburban,6000,6200,Suburb Street,1.03,Safe
+Sarita_Vihar_Rural,65,1,Rural,1600,1400,Village Junction,0.88,Unsafe
+Boduppal_Urban,110,4,Urban,6500,6800,City Center,1.05,Safe
+Chembur_Suburb,80,2,Suburban,4200,4400,Suburb Park,1.05,Safe
+Vile_Parle_West,95,2,Urban,4800,5000,City Corner,1.04,Safe
+Hauz_Khas_Residential,130,3,Suburban,5500,5800,Suburb Park,1.05,Safe
+Koregaon_Park_North,70,1,Rural,1800,1600,Village Center,0.89,Unsafe
+Ballygunge_Urban,110,4,Urban,7000,7200,City Main Street,1.03,Safe
+Kormangala_Suburban,60,2,Suburban,3500,3700,Suburb Street,1.06,Safe
+Adyar_Rural,100,3,Rural,2500,2300,Village Park,0.92,Unsafe
+Paldi_Urban,85,2,Urban,4800,5000,City Corner,1.04,Safe
+Pimpri_Suburb,140,4,Suburban,6500,7000,Suburb Square,1.08,Safe
+Assi_Ghat_Rural,40,1,Rural,1000,900,Village Main Street,0.9,Unsafe
+Madhapur_Urban,95,3,Urban,4200,4500,City Park,1.07,Safe
+Civil_Lines_Suburb,120,4,Suburban,6200,6800,Suburb Corner,1.1,Safe
+BHEL_Rural,55,2,Rural,1500,1400,Village Street,0.93,Unsafe
+Tollygunge_Urban,80,3,Urban,3800,4000,City Main Square,1.05,Safe
+Maradu_Suburb,110,4,Suburban,6800,7200,Suburb Main Square,1.06,Safe
+Kazhakootam_Rural,75,1,Rural,3000,2800,Village Square,0.93,Unsafe
+Jayanagar_Urban,100,2,Urban,4500,4700,City Square,1.05,Safe
+Gandhipuram_Suburb,130,3,Suburban,5500,5800,Suburb Park,1.05,Safe
+Alwarpet_Rural,60,1,Rural,1200,1000,Village Corner,0.83,Unsafe
+Anand_Vihar_Urban,90,2,Urban,4000,4200,City Square,1.05,Safe
+Hadapsar_Suburb,75,3,Suburban,3200,3400,Suburb Street,1.06,Safe
+Kharadi_Suburb,95,2,Suburban,4500,4700,Suburb Street,1.08,Safe
+Anna_Nagar_Urban,110,3,Urban,5500,5800,City Center,1.05,Safe
+Shalimar_Garden_Suburb,80,1,Suburban,3200,3400,Suburb Park,1.07,Safe
+Bandra_Urban,120,4,Urban,6000,6200,City Main Street,1.02,Safe
+Rajarhat_Suburb,70,2,Suburban,4000,4200,Suburb Center,1.05,Safe
+Alipore_Urban,130,3,Urban,7000,7200,City Corner,1.03,Safe
+Koramangala_Suburb,60,1,Suburban,2800,3000,Suburb Square,1.1,Safe
+Hazratganj_Urban,90,2,Urban,4200,4400,City Park,1.06,Safe
+Kondapur_Suburb,105,4,Suburban,6200,6500,Suburb Corner,1.09,Safe
+Adyar_Urban,75,3,Urban,3800,4000,City Square,1.05,Safe
+Salt_Lake_Suburb,140,5,Suburban,6800,7200,Suburb Main Square,1.06,Safe
+Pashan_Urban,50,2,Urban,3000,3200,City Main Square,1.07,Safe
+Malviya_Nagar_Suburb,65,1,Suburban,2500,2700,Suburb Street,1.09,Safe
+Vijayawada_Urban,110,4,Urban,5500,5800,City Park,1.05,Safe
+Palarivattom_Suburb,85,2,Suburban,4200,4400,Suburb Square,1.06,Safe
+Ballygunge_Urban,125,3,Urban,6500,6700,City Corner,1.02,Safe
+Kaggadasapura_Suburb,55,1,Suburban,3200,3400,Suburb Center,1.08,Safe
+Civil_Lines_Urban,100,4,Urban,5000,5200,City Main Street,1.04,Safe
+Nanganallur_Suburb,70,2,Suburban,3800,4000,Suburb Street,1.05,Safe
+Rohini_Urban,120,5,Urban,6200,6500,City Square,1.05,Safe
+Marine_Drive_Promenade,95,2,Urban,4300,4600,City Coastal,1.07,Safe
+Rajouri_Garden_Residential,65,1,Suburban,3200,3400,Suburb Gardens,1.05,Safe
+Malabar_Hills_Estate,110,3,Rural,1800,1600,Village Hilltop,0.88,Unsafe
+Hazratganj_Central,75,2,Urban,3900,4100,City Shopping,1.05,Safe
+Koramangala_Suburban,120,4,Suburban,5600,5900,Suburb Tech Park,1.07,Safe
+Panampilly_Nagar_Urban,40,1,Rural,900,800,Village Riverside,0.88,Unsafe
+Ellis_Bridge_Urban,85,2,Urban,4200,4400,City Riverfront,1.05,Safe
+Balewadi_Suburb,105,3,Suburban,5100,5300,Suburb Playground,1.02,Safe
+Lajpat_Nagar_Residential,60,1,Rural,1500,1300,Village Gardens,0.87,Unsafe
+Kondapur_Urban,125,4,Urban,6700,7000,City IT Hub,1.06,Safe
+Punjabi_Bagh_Suburb,50,2,Suburban,2900,3100,Suburb Market,1.07,Safe
+Bairagarh_Rural,90,3,Rural,2400,2200,Village Fields,0.91,Unsafe
+Civil_Lines_Urban,80,2,Urban,4600,4800,City Heritage,1.08,Safe
+Aluva_Suburb,130,4,Suburban,6200,6500,Suburb Riverbank,1.07,Safe
+Colva_Beachside,35,1,Rural,800,700,Village Beach,0.87,Unsafe
+Seethammadhara_Urban,100,3,Urban,4000,4300,City Residential,1.06,Safe
+Model_Town_Suburb,115,4,Suburban,5900,6200,Suburb Greenery,1.05,Safe
+Ashok_Nagar_Residential,55,2,Rural,1200,1100,Village Lakeside,0.92,Unsafe
+Civil_Aerodrome_Urban,70,3,Urban,3700,3900,City Airport Area,1.04,Safe
+Kukatpally_Suburb,95,4,Suburban,6400,6700,Suburb Business,1.07,Safe
