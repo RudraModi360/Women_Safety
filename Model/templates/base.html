@@ -33,15 +33,6 @@
         </div>
     </nav>
     <form method="POST">
-        <div class="container my-2" action="/">
-            <div class="form-group">
-                <label for="Women_Safety_ratio">Women_Safety_ratio</label>
-                <input type="number" class="form-control" id="Safety_ratio" name="Women_Safety_ratio"
-                    aria-describedby="emailHelp" placeholder="Enter Women_Safety_ratio" min="0" 
-                    max="1" step="0.001">
-                <small id="emailHelp" class="form-text text-muted">Women_Safety_ratio (1>ratio>0).</small>
-            </div>
-        </div>
         <div class="container my-2">
             <label for="Area_name">Area_name</label>
             <div class="btn-group" action="/get_Area_names method=" POST">
@@ -55,29 +46,6 @@
                     <!-- JavaScript will populate location dropdown here -->
                 </div>
             </div>
-        </div>
-        <div class="container my-2">
-            <label for="type">Type_Area</label>
-            <div class="btn-group" name="type">
-                <button type="button" class="btn btn-outline-dark" name="type" id="typeButton">Choose type</button>
-                <button type="button" class="btn btn-outline-dark dropdown-toggle split" data-toggle="dropdown"
-                    aria-haspopup="true" aria-expanded="false">
-                    <span class="sr-only">Choose Type</span>
-                </button>
-                <div class="dropdown-menu" id="typeDropdown">
-                    <!-- JavaScript will populate bathroom dropdown here -->
-                </div>
-            </div>
-        </div>
-        <div class="container my-2">
-            <div class="form-group">
-                <label for="Women_Safety_ratio">Crowdness_Factor</label>
-                <input type="number" class="form-control" id="crowdness_factor" name="crowdness_factor"
-                    aria-describedby="emailHelp" placeholder="Enter crowdness_factor" min="0" 
-                    max="1" step="0.001">
-                <small id="emailHelp" class="form-text text-muted">crowdness_factor (1>ratio>0).</small>
-            </div>
-        </div>
         </div>
         <div class="container my-5">
             <button id="predictBtn" class="btn btn-primary">Predict Safety</button>
