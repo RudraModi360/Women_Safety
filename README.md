@@ -14,7 +14,7 @@ Before running the script, ensure you have the following installed:
 To use the prediction model, you can call the `predict_safety` function with the name of the area as input. This function will return a prediction indicating the safety level of that area for women.
 
 ```python
-from predict_model import predict_safety
+from util import predict_safety
 
 # Example usage
 area_name = "Area_Name"
