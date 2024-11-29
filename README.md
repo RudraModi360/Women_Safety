@@ -1,6 +1,6 @@
 # Women Safety Prediction Model
 
-This repository contains a Python script for predicting women safety based on certain features of an area. The script utilizes a pre-trained machine learning model to make predictions.
+This repository contains a Python script for predicting women safety based on certain features of an area. The script utilizes a trained machine learning model to make predictions.
 
 ## Prerequisites
 
